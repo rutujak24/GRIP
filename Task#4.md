@@ -7,5 +7,4 @@ classifier, it would be able to predict the right class accordingly.
 
 [Dataset can be found here](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing)
 
-[Sample Solution is here](https://drive.google.com/file/d/1mQguC2gku2-
-QFruj09a30N0TYDwCmPkq/view?usp=sharing)
+[Sample Solution is here](https://drive.google.com/file/d/1mQguC2gku2-QFruj09a30N0TYDwCmPkq/view?usp=sharing)
