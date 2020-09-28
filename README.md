@@ -1,1 +1,2 @@
 # GRIP
+Sparks Foundation GRIP for DATA SCIENCE and BUZINESS ANALYTICS
